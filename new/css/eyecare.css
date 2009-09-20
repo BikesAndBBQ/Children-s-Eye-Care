@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+}
+body {
+    background: #FFFFFF url(../images/background/phoropter1280.jpg) no-repeat scroll center top;
+    height: 100%;
+}
+.content {
+    background: #FFFFFF;
+    min-height: 100%;
+}
+.menubar {
+    background: #333333;
+    border-top: 1px #000000 solid;
+    border-bottom: 1px #000000 solid;
+}
+.menuitem {
+    text-align: center;
+    border-right: 1px #ffffff solid;
+}
+.menuitem a:link, .menuitem a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+.menuitem a:hover {
+    color: #cc0000;
+}
